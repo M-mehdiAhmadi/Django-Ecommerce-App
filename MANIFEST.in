@@ -1,4 +1,4 @@
 include README.md
 include LICENSE
-recursive-include django_app_template/templates *
-recursive-include django_app_template/static *
+recursive-include Django_Ecommerce_App/templates *
+recursive-include Django_Ecommerce_App/static *
